@@ -1,0 +1,118 @@
+* {
+    margin: 0%;
+  }
+
+  header {
+    background: url(./images/EuctpOUXIAci9HV.png);
+    background-size: contain;
+  }
+  
+  section {
+    background: url(./images/isifi9rfvws01.png);
+  background-size: auto;
+ 
+  
+  }
+  
+  header {
+    display: grid;
+    min-height: 1vh;
+
+  }
+  #cabeçario a {
+    margin: 20px 20px 20px 20px;
+    text-transform: uppercase;
+    text-decoration: dotted;
+    color: rgb(201, 201, 201);
+  }
+  #cabeçario {
+    justify-self: end;
+    padding-bottom: 10px;
+    font-size: 20px;
+  }
+  header h1 {
+    text-align: center;
+  }
+  section {
+    display: grid;
+  }
+#TITULO img{
+    width: 500px;
+
+}
+#TITULO {
+    justify-self: center;
+}
+#Iceberg {
+    text-align: center;
+   color:rgb(255, 0, 0);
+    display: grid;
+    place-items: center;
+    margin-bottom: 100px;
+    font-size: 25px;
+}
+
+#Herobrine{
+text-align: center;
+display: grid;
+place-items: center;
+margin-bottom: 40px;
+font-size: 25px;
+color: rgb(167, 34, 34);
+}
+#Herobrine img{
+    width: 600px;
+    margin-bottom: 40px;
+}
+#Surgiu{
+    text-align: center;
+    font-size:25px ;
+    margin-bottom: 100px;
+    color: red;
+}
+#foda{
+    font-size: 25px;
+    text-align: center;
+display: grid;
+place-items: center;
+margin-bottom: 100px;
+
+color: rgb(167, 34, 34);
+}
+#Real {
+
+  text-align: center;
+}
+#Real img{
+    width: 700px;
+margin-bottom: 20px;
+}
+audio {
+  place-self: center;
+  margin-top: 70px;
+}
+#Disco{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 30px; 
+  color: red;
+}
+#Disco p{
+  margin-top: 40px;
+}
+#Disco11{
+ text-align: center;
+}
+#Disco11 img{
+  width: 300px;
+  margin-top: 30px;
+}
+#misterio{
+  text-align: center;
+  display: grid;
+place-items: center;
+margin-bottom: 40px;
+font-size: 30px;
+color: rgb(167, 34, 34);
+margin-top: 30px;
+}
